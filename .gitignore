@@ -1,6 +1,14 @@
+# db.sql
+# passwords.txt
+# *.log  
+# node_modules/
+# #**/*.bak
+# !important.log
+
 db.sql
 passwords.txt
-*.log  
+*.log
 node_modules/
-#**/*.bak
+**/*.bak
 !important.log
+
