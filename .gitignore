@@ -11,4 +11,4 @@ passwords.txt
 node_modules/
 **/*.bak
 !important.log
-#about.html
+about.html
