@@ -5,3 +5,4 @@ The best ways are :
 -Sleep
 -Code
 -Repeat
+## How was the night darks,but sun rises everyday.
